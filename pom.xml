@@ -49,6 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>service-one</finalName>
 	</build>
 
 </project>
